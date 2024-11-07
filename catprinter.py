@@ -9,6 +9,7 @@ def draw_cat():
 GOOD LUCK HAVE FUN!
 GOOD LUCK HAVE FUN!
 GOOD LUCK HAVE FUN!
+(press ctr+C to stop)
 """
     return cat
 
