@@ -5,6 +5,12 @@ def draw_cat():
  /\_/\      /\–/\      /\_/\
 ( o.o )    |.>ω<.|    ฅ •ﻌ• ฅ
  > ^ <      \___/      \___/
+    cat = r"""
+ /\_/\
+( o.o )
+ > ^ <
+
+(press ctr+C to stop)
 """
     return cat
 
