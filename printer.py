@@ -1,6 +1,7 @@
 import random
 
 colors = [
+<<<<<<< HEAD
     "\033[91m",     # Red
     "\033[92m",     # Green
     "\033[93m",     # Yellow
@@ -8,6 +9,7 @@ colors = [
     "\033[95m",     # Magenta
     "\033[96m",     # Cyan
     "-\033[97m",    # White
+>>>>>>> 051679d (Исправлены константы цветов)
 ]
 reset_color = "\033[0m"
 
