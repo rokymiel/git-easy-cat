@@ -8,7 +8,7 @@ def draw_cat():
 """
     return cat
 
-def draw_cats(num_cats):
-    for i in range(num_cats):
+def draw_cats():
+    while True:
         pretty_print(draw_cat())
 
