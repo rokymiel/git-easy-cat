@@ -1,4 +1,4 @@
-from printer import pritty_print
+from printer import pretty_print
 
 def draw_cat():
     cat = r"""
@@ -10,5 +10,5 @@ def draw_cat():
 
 def draw_cats(num_cats):
     for i in range(num_cats):
-        pritty_print(draw_cat())
+        pretty_print(draw_cat())
 

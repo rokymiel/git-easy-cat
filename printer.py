@@ -1,3 +1,3 @@
 
-def pritty_print(message):
+def pretty_print(message):
     print(message)
