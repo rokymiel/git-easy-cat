@@ -1,5 +1,6 @@
 import random
 
+reset_color = "\033[0m"
 colors = [
     "\033[91m",  # Red
     "\033[92m",  # Green
@@ -9,7 +10,6 @@ colors = [
     "\033[96m",  # Cyan
     "\033[97m",  # White
 ]
-reset_color = "\033[0m"
 
 # Делает красивый вовод сообщений
 def pretty_print(message):
