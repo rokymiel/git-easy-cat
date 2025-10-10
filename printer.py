@@ -11,6 +11,7 @@ colors = [
 ]
 reset_color = "\033[0m"
 
+# Делает красивый вовод сообщений
 def pretty_print(message):
     color = random.choice(colors)
     print(color + message + reset_color)
