@@ -1,10 +1,10 @@
 from printer import pretty_print
 
 def draw_cat():
-    cat = r"""
- /\_/\    /\_/\    /\_/\
-( o.o )  ( o.o )  ( o.o )
- > ^ <    > ^ <    > ^ <
+    cat = r"""
+ /\_/\      /\–/\      /\_/\
+( o.o )    |.>ω<.|    ฅ •ﻌ• ฅ
+ > ^ <      \___/      \___/
 """
     return cat
 
