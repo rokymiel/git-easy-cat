@@ -2,9 +2,9 @@ from printer import pretty_print
 
 def draw_cat():
     cat = r"""
- /\_/\    /\_/\    /\_/\
-( o.o )  ( o.o )  ( o.o )
- > ^ <    > ^ <    > ^ <
+ /\_/\      /\–/\      /\_/\
+( o.o )    |.>ω<.|    ฅ •ﻌ• ฅ
+ > ^ <      \___/      \___/
 """
     return cat
 
